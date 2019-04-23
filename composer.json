@@ -1,0 +1,17 @@
+{
+    "name": "jungleran/drupal-common",
+    "type": "metapackage",
+    "description": "Common packages applicable in every project",
+    "keywords": ["Drupal"],
+    "require": {
+        "drupal/config_filter": "1.4",
+        "drupal/config_split": "^1.4",
+        "drupal/token": "^1.5",
+        "drupal/ctools": "^3.0",
+        "drupal/entity": "^1.0",
+        "drupal/module_filter": "^3.1",
+        "drupal/admin_toolbar": "^1.26",
+        "drupal/adminimal_admin_toolbar": "^1.9",
+        "drupal/adminimal_theme": "^1.4"
+    }
+}
